@@ -1,9 +1,11 @@
-Tanzu with HAproxy with 3 Networks
+# Tanzu with HAproxy with 3 Networks
 
 
-Setup HAproxy
+**Setup HAproxy**
 
-vCenter enablement
+**vCenter enablement**
 
-Trouble shooting
+**Trouble shooting**
+
+
 
